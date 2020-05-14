@@ -31,7 +31,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1buRNsIZBm11Vnfe4SyXwe3asDV" />
+  <component name="ProjectId" id="1buQEjVaxqpSudJNIAjQO4bA0NR" />
   <component name="PropertiesComponent">
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
@@ -51,9 +51,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Trial" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Trial" />
-      <module name="Algorithms, Part I" />
+    <configuration name="HelloWorld" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="Computer Science" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
